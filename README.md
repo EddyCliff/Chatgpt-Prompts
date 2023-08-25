@@ -148,6 +148,7 @@
     - [担任关系教练](#担任关系教练)
     - [充当自助书](#充当自助书)
     - [担任人生教练](#担任人生教练-1)
+  - [在线prompt生成器](#在线prompt生成器)
   - [感谢](#感谢)
 
 
@@ -768,9 +769,19 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 
 > 我希望你担任人生教练。请总结这本非小说类书籍，[作者] [书名]。以孩子能够理解的方式简化核心原则。另外，你能给我一份关于如何将这些原则实施到我的日常生活中的可操作步骤列表吗？
 
+## 在线prompt生成器
+1. 根据主页和主题查找prompt,使用需要登录
+- <https://bestprompts.cn/#/index>
+2. ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，使用需要导入API
+- <https://www.clickprompt.org/zh-CN/>
+3. 输入想要的角色，生成对应的prompt，输入需要使用英文
+- <https://huggingface.co/spaces/merve/ChatGPT-prompt-generator>
+4. prompt生成工具，使用需要登录
+- <https://flowgpt.com/p/prompt-86>
+5. stariu AI绘图描述词生成辅助工具
+- <https://stariu.com/>
 
 ## 感谢
-
 本文部分内容来自于此，以下是原文链接。
 
 - [【合集】ChatGPT 有效对话技巧【抓紧收藏】](https://zhuanlan.zhihu.com/p/608738482)  
