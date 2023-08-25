@@ -825,10 +825,11 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 - <https://kalos.art/>
 
 ## 感谢
-本文部分内容来自于此，以下是原文链接。
+>特此感谢，本文部分内容灵感来自 
 
 - [【合集】ChatGPT 有效对话技巧【抓紧收藏】](https://zhuanlan.zhihu.com/p/608738482)  
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 - <https://www.aishort.top>
 - [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)
-- [ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List)
+- [ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List)  
+>我对于这些珍贵的观点表示由衷的赞赏与致谢。 <br> 在引用时，我秉持着尊重原创和合法权益的原则，确保不侵犯任何权利。<br>                    如有侵权之处，请麻烦指正，我会及时予以删除。
