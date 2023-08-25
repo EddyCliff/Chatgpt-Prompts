@@ -770,16 +770,24 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 > 我希望你担任人生教练。请总结这本非小说类书籍，[作者] [书名]。以孩子能够理解的方式简化核心原则。另外，你能给我一份关于如何将这些原则实施到我的日常生活中的可操作步骤列表吗？
 
 ## 在线prompt生成器
-1. 根据主页和主题查找prompt,使用需要登录
+1. `bestprompts`根据主页和主题查找prompt,使用需要登录
 - <https://bestprompts.cn/#/index>
-2. ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，使用需要导入API
+2. `ClickPrompt`是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，使用需要导入API
 - <https://www.clickprompt.org/zh-CN/>
-3. 输入想要的角色，生成对应的prompt，输入需要使用英文
+3. `ChatGPT-prompt-generator`输入想要的角色，生成对应的prompt，输入需要使用英文
 - <https://huggingface.co/spaces/merve/ChatGPT-prompt-generator>
-4. prompt生成工具，使用需要登录
+4. `flowgpt`prompt生成工具，使用需要登录
 - <https://flowgpt.com/p/prompt-86>
-5. stariu AI绘图描述词生成辅助工具
+5. `stariu` AI绘图描述词生成辅助工具
 - <https://stariu.com/>
+6. `ChatGPT-Shortcut`AI Short 让生产力加倍的 ChatGPT 快捷指令
+- <https://www.aishort.top/>
+7. `promptomania`利用提示发挥创意，将您的想象力转化为艺术。使用promptoMANIA的免费提示生成器将详细信息添加到您的提示中并生成独特的AI艺术
+- <https://promptomania.com/prompt-builder/>
+8. `prompthero`直接查看AI images对应的propmpt
+- <https://prompthero.com/>
+9. `kalos.art`强大的AI艺术展示和市场人工智能艺术创作者和爱好者的终极社区
+- <https://kalos.art/>
 
 ## 感谢
 本文部分内容来自于此，以下是原文链接。
