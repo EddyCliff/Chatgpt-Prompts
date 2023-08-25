@@ -1,6 +1,10 @@
 # 目录
 - [目录](#目录)
 - [Chatgpt-Prompts](#chatgpt-prompts)
+- [精要指南：优化你的prompt写作技巧](#精要指南优化你的prompt写作技巧)
+  - [什么是prompt](#什么是prompt)
+  - [如何写好prompt](#如何写好prompt)
+    - [prompt案例](#prompt案例)
 - [指导手册](#指导手册)
   - [AI(企业指导)](#ai企业指导)
     - [担任首席执行官](#担任首席执行官)
@@ -155,8 +159,39 @@
 # Chatgpt-Prompts
 ChatGPT-Prompts 仓库是一个聚集了各种用于 GPT 模型的提示（Prompts）的地方。这里包含了用于激发 GPT 进行各种任务、生成内容、回答问题等的提示集合。无论您是在探索 GPT 的创意用法，还是需要灵感来构建对话或生成文本，这个仓库都为您提供了多样化的提示选择。浏览并发现适合您需求的提示，加快您的 GPT 使用和实验过程！
 
-------
+# 精要指南：优化你的prompt写作技巧
+## 什么是prompt
+当涉及到GPT（生成对抗性预训练）模型的“prompt”时，你可以把它想象成给计算机的一个简短指令或问题，就像你与朋友或搜索引擎交流时提出的问题。这个指令告诉模型你想要什么样的回答或内容。然后，GPT会根据这个指令来生成一个合适的回复或文章段落。
 
+想象一下，你正在与一个虚拟朋友聊天，你给他写了一条短信：“告诉我有关夏季旅行的趣事！”在这里，你的短信就是一个“prompt”。基于这个指令，你的虚拟朋友会生成一段与夏季旅行相关的故事或回忆。
+
+对于GPT模型，一个“prompt”可以是一个问题、一个部分句子，或者任何引导模型生成文本的输入。这是与模型交流的一种方式，就像你在寻求特定信息或内容时与其他人交谈一样。
+
+## 如何写好prompt
+这里引用来自Matt Nigh的CRISPE提示框架。  
+构建ChatGPT提示的框架：一个方法论  
+在为ChatGPT创建提示时使用一个提示框架。框架为提示的创作过程提供了结构和清晰度。它将提示创作过程分解为明确而独立的步骤。
+
+CRISPE提示框架：  
+角色和任务：ChatGPT应该扮演什么角色（或角色）？  
+洞察力：提供幕后的见解、背景和与你的请求相关的上下文。  
+陈述：你正在要求ChatGPT做什么。  
+个性：你希望ChatGPT以何种风格、个性或方式回应。  
+实验：要求ChatGPT为你提供多个示例。
+
+### prompt案例
+构建提示的方法 -> CRISPE 示例 
+|步骤 |示例提示|
+| ----------- |-----------|
+|角色和任务	|`以机器学习框架的软件开发专家和博客作家的身份进行操作`|
+|洞察力	|`这篇博客的受众是对了解机器学习最新进展感兴趣的技术专业人士`|
+|陈述	|`全面介绍最流行的机器学习框架，包括它们的优点和缺点。提供真实案例和案例研究，以说明这些框架在不同行业中的成功应用。`|
+|个性|	`在回应时，使用Andrej Karpathy、Francois Chollet、Jeremy Howard和Yann LeCun的写作风格的混合。`|
+|实验|	`给我多个不同的示例。`|  
+
+最终的提示是：
+
+`以机器学习框架的软件开发专家和博客作家的身份进行操作。这篇博客的受众是对了解机器学习最新进展感兴趣的技术专业人士。全面介绍最流行的机器学习框架，包括它们的优点和缺点。提供真实案例和案例研究，以说明这些框架在不同行业中的成功应用。在回应时，使用Andrej Karpathy、Francois Chollet、Jeremy Howard和Yann LeCun的写作风格的混合。` 
 # 指导手册
 直接复制Prompt到gpt粘贴使用。
 
@@ -796,3 +831,4 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 - <https://www.aishort.top>
 - [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)
+- [ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List)
